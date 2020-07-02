@@ -2,7 +2,7 @@
 
 ## Request a PyLadies chapter repository
 
-To start you'll need to open an issue in this repository providing:
+To start you'll need to [open an issue](github.com/pyladies/chapter-websites/issues) in this repository providing:
 
 - PyLadies chapter name
 - GitHub handle(s) of the chapter organizers
@@ -35,9 +35,11 @@ The workflow for adding [your website as a submodule](https://www.vogella.com/tu
 
 ```bash
 $ cd chapter-websites  # PyLadies repo root
-$ git submodule add https://github.com/<YOUR_GITHUB_USER_NAME>/<YOUR_PYLADIES_WEBSITE_REPO>.git -b gh-pages chapter_websites/<YOUR_CHAPTER_NAME> # e.g. git submodule add https://github.com/pyladies/pyladies-chicago-website -b gh-pages chicago
+$ git submodule add -b <YOUR_CHAPTER_WEBSITE_REPO_PROD_BRANCH> https://github.com/<YOUR_GITHUB_USER_NAME>/<YOUR_PYLADIES_WEBSITE_REPO>.git chapter_websites/<YOUR_CHAPTER_NAME> # e.g. git submodule add -b gh-pages https://github.com/pyladies/pyladies-chicago-website chicago
 $ git submodule init # Adds to .gitmodules 
 ```
+
+Here is an example [pull request adding Chicago to the repository](https://github.com/pyladies/chapter-websites/pull/2).
 
 If you ever want the PyLadies repo to be fixed at [the most recent commit of your website](https://www.vogella.com/tutorials/GitSubmodules/article.html#submodules_track) you'll need to:
 
