@@ -53,6 +53,9 @@ $ git commit -m "Update submodule for chapter <YOUR_CHAPTER_NAME> to latest comm
 $ git push <YOUR_CHAPTER_WEBSITE_REPO_PROD_BRANCH>
 ```
 
+## Updating your website submodule
+
+The repository is setup to use a [GitHub action](https://github.com/marketplace/actions/checkout-submodules?version=2.1.1) to checkout submodules defined in the repo any time a push to `main` happens. The setup is specified under `.github/workflows/build.yml`. Or you can see more info under the repo [actions tab](https://github.com/pyladies/chapter-websites/actions).
 ## Questions?
 
 Reach out to `#project-tech-infra` on the PyLadies Slack!
