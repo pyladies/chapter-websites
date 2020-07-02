@@ -5,7 +5,7 @@ title: 'Requesting a new PyLadies Chapter website: <Enter your PyLadies Chapter 
 labels: new-website
 ---
 
-_This template should be used for those requiring a new PyLadies website.
+_This template should be used for those requiring a new PyLadies website._
 
 ## 1. What is the name of the PyLadies chapter requesting the website?
 
@@ -14,7 +14,7 @@ _This template should be used for those requiring a new PyLadies website.
 ## 3. What are the GitHub handles of the PyLadies chapter organizers?
 
 Name | GitHub Handle | Slack Handle | PyLadies Chapter | Team Role 
-| --| --| --| --|
+| --| --| --| --| --|
 
 ## Issue checklist
 
