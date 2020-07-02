@@ -26,5 +26,6 @@ Name | GitHub Handle | Slack Handle | PyLadies Chapter | Team Role
 - [ ] Insert link to repo:
 - [ ] Is the custom domain created?
 - [ ] Are the organizers added to a PyLadies team with proper permissions for the repo? Insert name of the team:
+- [ ] Is the GitHub team added to the repo with maintain permissions?
 
 /cc @pyladies/tech-and-infra-admins
