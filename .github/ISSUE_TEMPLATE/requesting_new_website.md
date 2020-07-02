@@ -7,11 +7,11 @@ labels: new-website
 
 _This template should be used for those requiring a new PyLadies website._
 
-## 1. What is the name of the PyLadies chapter requesting the website?
+## What is the name of the PyLadies chapter requesting the website?
 
-## 2. What is the custom domain desired for the PyLadies chapter website?
+## What is the custom domain desired for the PyLadies chapter website?
 
-## 3. What are the GitHub handles of the PyLadies chapter organizers?
+## What are the GitHub handles of the PyLadies chapter organizers?
 
 Name | GitHub Handle | Slack Handle | PyLadies Chapter | Team Role 
 | --| --| --| --| --|
