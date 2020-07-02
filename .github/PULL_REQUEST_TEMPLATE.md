@@ -63,7 +63,6 @@ Mark which one is correct. If `No` please detail why you cannot complete the reg
 # Pull Request Checklist
 
 - [ ] Fill out all sections above
-- [ ] Share pull request in PyLadies Slack channel #project-tech-infra
 
 /cc @pyladies/tech-and-infra-admins
 <!--
