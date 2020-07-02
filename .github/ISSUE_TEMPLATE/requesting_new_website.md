@@ -34,6 +34,9 @@ Name | GitHub Handle | Slack Handle | Team Role
 - [ ] Completed the 5 questions above
 - [ ] Did you notify the PyLadies Slack channel #project-tech-infra?
 - [ ] Have you added [your PyLadies chapter website as a submodule](https://github.com/pyladies/chapter-websites#adding-your-website-to-a-submodule) to this repository? Here's an [example pull request adding Chicago to the repo](https://github.com/pyladies/chapter-websites/pull/2).
+      Insert pull request: [Add pull request link here]
+- [ ] If applicable, have you removed your old PyLadies website from main PyLadies repo? 
+      Insert pull request: [Add pull request link here]
 
 **For the @pyladies/tech-and-infra-admins to complete:**
 - [ ] Insert link to repo:
