@@ -33,6 +33,7 @@ Name | GitHub Handle | Slack Handle | Team Role
 **For the author to complete:**
 - [ ] Completed the 5 questions above
 - [ ] Did you notify the PyLadies Slack channel #project-tech-infra?
+- [ ] Have you added your PyLadies chapter website as a submodule to this repository?
 
 **For the @pyladies/tech-and-infra-admins to complete:**
 - [ ] Insert link to repo:
