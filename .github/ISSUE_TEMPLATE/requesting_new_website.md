@@ -13,8 +13,8 @@ _This template should be used for those requiring a new PyLadies website._
 
 ## What are the GitHub handles of the PyLadies chapter organizers?
 
-Name | GitHub Handle | Slack Handle | PyLadies Chapter | Team Role 
-| --| --| --| --| --|
+Name | GitHub Handle | Slack Handle | Team Role 
+| --| --| --| --| 
 
 ## Do you want your website to use one of the following templates or do you prefer it to be blank?
 
@@ -31,7 +31,7 @@ Name | GitHub Handle | Slack Handle | PyLadies Chapter | Team Role
 ## Issue checklist
 
 **For the author to complete:**
-- [ ] Completed the three questions above
+- [ ] Completed the 5 questions above
 - [ ] Did you notify the PyLadies Slack channel #project-tech-infra?
 
 **For the @pyladies/tech-and-infra-admins to complete:**
