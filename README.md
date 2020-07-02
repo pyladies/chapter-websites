@@ -19,7 +19,7 @@ Some ideas of content to include on your page:
 * A chapter blog
 * anything!
 
-## Bootstap with PyLadies templates
+## Bootstrap with PyLadies templates
 
 We've started adding templates into the pyladies organization you can use by clicking the `Use this template` button. Existing templates include:
 
