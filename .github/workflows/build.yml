@@ -19,4 +19,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Checkout submodules
-        uses: textbook/git-checkout-submodule-action@2.1.0
+        uses: textbook/git-checkout-submodule-action@master
