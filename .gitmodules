@@ -10,3 +10,7 @@
 	path = uruguay
 	url = https://github.com/pyladies/pyladies-uy-website.git
 	branch = gh-pages
+[submodule "dublin"]
+	path = dublin
+	url = https://github.com/pyladiesdublin/pyladiesdublin.github.io
+	branch = master
