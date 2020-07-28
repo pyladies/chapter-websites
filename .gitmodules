@@ -14,3 +14,7 @@
 	path = dublin
 	url = https://github.com/pyladies/pyladies-dublin-website.git
 	branch = gh-pages
+[submodule "saocarlos"]
+	path = saocarlos
+	url = https://github.com/pyladies/pyladies-sao-carlos-website.git
+	branch = gh-pages
