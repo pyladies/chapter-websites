@@ -19,13 +19,13 @@ Name | GitHub Handle | Slack Handle | Team Role
 ## Do you want your website to use one of the following templates or do you prefer it to be blank?
 
 - [ ] [PyLadies Netlify HTML Basic Website](https://github.com/pyladies/netlify-website-template), example: chicago.pyladies.com
+- [ ] [PyLadies Website served via GitHub Pages with my own design](https://github.com/pyladies/chapter-websites/issues/13#issuecomment-665090083)
 - [ ] I'll use my own template
 
 ## Where will you host the website?
 
 - [ ] GitHub Pages
 - [ ] Heroku
-- [ ] Netlify
 - [ ] Other: [Please specify as this is needed for @pyladies/tech-and-infra-admins to setup the DNS record accordingly]
 
 ## Issue checklist
