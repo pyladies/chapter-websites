@@ -20,6 +20,8 @@ Name | GitHub Handle | Slack Handle | Team Role
 
 - [ ] [PyLadies Netlify HTML Basic Website](https://github.com/pyladies/netlify-website-template), example: chicago.pyladies.com
 - [ ] [PyLadies Website served via GitHub Pages with my own design](https://github.com/pyladies/chapter-websites/issues/13#issuecomment-665090083)
+- [ ] Fork our existing PyLadies repository to use existing design
+       Insert repo name: [Add repo name here]
 - [ ] I'll use my own template
 
 ## Where will you host the website?
