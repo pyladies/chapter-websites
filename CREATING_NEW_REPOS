@@ -17,10 +17,11 @@ These instructions are meant for the `CODEOWNERS` of the repository who actually
 - Navigate to `app.netlify.com`, selecting the PyLadies OSS Account, you'll need to add the new repository clicking `new site from git` and find the repository under `pyladies` organization. If you aren't a member of the Netlify account, ask in Slack in `#project-tech-infa`.
 - If this is a website that has a more complex build than simple HTML confirm the project details under the `build command`
 - When it looks good using the `gh-pages` branch to deploy from with whatever `build command` needed, deploy! Use the output to confirm if it is successful. Tip: We are using Python 3.7 for build so make sure the repo has a `runtime.txt` with the value `3.7` in it on the `gh-pages` branch.
+- Rename the site deploy to something useful (find under the `General` setting)
 
 ## Does the issue ask for hosting on GitHub pages?
 
-Great make sure the repo has a `gh-pages` branch, likely best if that is the default branch
+Great make sure the repo has a `gh-pages` branch as that is the branch used to serve up the website via GitHub pages, likely best if that is the default branch
 
 ## Wire up the subdomain
 
