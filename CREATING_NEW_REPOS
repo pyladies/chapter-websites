@@ -12,7 +12,9 @@ These instructions are meant for the `CODEOWNERS` of the repository who actually
 
 ## Does the issue ask for Netlify CI support?
 
-- Navigate to `app.netlify.com`, selecting the PyLadies OSS Account, you'll need to add the new repository clicking `new site from git` and find the repository under `pyladies` organization
+**To use Netlify CI the website _must_ include the Netlify badge on it. See pyladies.com footer for example. This is to be in compliance with the PyLadies free OSS account plan.**
+
+- Navigate to `app.netlify.com`, selecting the PyLadies OSS Account, you'll need to add the new repository clicking `new site from git` and find the repository under `pyladies` organization. If you aren't a member of the Netlify account, ask in Slack in `#project-tech-infa`.
 - If this is a website that has a more complex build than simple HTML confirm the project details under the `build command`
 - When it looks good using the `gh-pages` branch to deploy from with whatever `build command` needed, deploy! Use the output to confirm if it is successful. Tip: We are using Python 3.7 for build so make sure the repo has a `runtime.txt` with the value `3.7` in it on the `gh-pages` branch.
 
