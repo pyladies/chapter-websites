@@ -1,0 +1,29 @@
+# Creating New Repos
+
+These instructions are meant for the `CODEOWNERS` of the repository who actually create new repositories for PyLadies Chapters website.
+
+## Checklist
+
+- Review open issue, confirming no information is overlooked (e.g. what template they want to use if any, where the website should be hosted, the GitHub handles of organizers, etc.)
+- Create a new repository with the convention `pyladies-chaptername-website` e.g. `pyladies-chicago-website` using the template, if one is specified. If none is specified but a prexisting website exists the organizers want to port over, fork their repo and follow the convention for the repo name.
+- Create a PyLadies organizer team, the parent team should ne `Organizers` and the name of the team the name of the chapter e.g. `@pyladies/chicago`, add that team to the `CODEOWNERS` for the repo
+- Add the PyLadies organizer team to the repo with maintainer privileges (one step beneath admin)
+- Handle the balance of the open questions including those related to the subdomain creation, hosting, and any CI support (e.g. Netlify) 
+
+## Does the issue ask for Netlify CI support?
+
+- Navigate to `app.netlify.com`, selecting the PyLadies OSS Account, you'll need to add the new repository clicking `new site from git` and find the repository under `pyladies` organization
+- If this is a website that has a more complex build than simple HTML confirm the project details under the `build command`
+- When it looks good using the `gh-pages` branch to deploy from with whatever `build command` needed, deploy! Use the output to confirm if it is successful. Tip: We are using Python 3.7 for build so make sure the repo has a `runtime.txt` with the value `3.7` in it on the `gh-pages` branch.
+
+## Does the issue ask for hosting on GitHub pages?
+
+Great make sure the repo has a `gh-pages` branch, likely best if that is the default branch
+
+## Wire up the subdomain
+
+Using the hosting directions specified in the issue, add the subdomain to the PyLadies Cloudflare
+
+## Questions?
+
+Ask in `project-tech-infa` in the PyLadies Slack.
