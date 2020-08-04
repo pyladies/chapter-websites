@@ -18,3 +18,7 @@
 	path = saocarlos
 	url = https://github.com/pyladies/pyladies-sao-carlos-website.git
 	branch = gh-pages
+[submodule "madrid"]
+	path = madrid
+	url = https://github.com/PyLadiesMadrid/pyladiesmadrid.git
+	branch = main
