@@ -9,6 +9,13 @@ _This template should be used for those requiring a new PyLadies website._
 
 ## What is the name of the PyLadies chapter requesting the website?
 
+## Have you registered your PyLadies chapter in the PyLadies Chapter Directory?
+
+[ ] Yes
+[ ] No
+
+### If no, please visit the [PyLadies Chapter Directory logged in with your official PyLadies email](https://forms.gle/A4tUc2764FMn92Mu6) and complete the registration. If you do not finish this, a website will not be created.
+
 ## What is the custom domain desired for the PyLadies chapter website?
 
 ## What are the GitHub handles of the PyLadies chapter organizers?

@@ -2,9 +2,10 @@
 
 ## Request a PyLadies chapter repository
 
-To start you'll need to [open an issue](github.com/pyladies/chapter-websites/issues) in this repository providing:
+To start you'll need to [open an issue](https://github.com/pyladies/chapter-websites/issues/new/choose) in this repository providing:
 
 - PyLadies chapter name
+- Confirm you have registered your PyLadies chapter in the chapter directory
 - GitHub handle(s) of the chapter organizers
 - URL for your custom domain (e.g. seattle.pyladies.com or sea.pyladies.com)
 
