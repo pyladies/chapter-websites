@@ -26,7 +26,3 @@
 	path = oakland
 	url = https://github.com/pyladies/pyladies-oakland-website
 	branch = gh-pages
-[submodule "madrid"]
-	path = madrid
-	url = https://github.com/PyLadiesMadrid/pyladiesmadrid.git
-	branch = main
