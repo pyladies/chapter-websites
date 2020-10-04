@@ -30,3 +30,7 @@
 	path = madrid
 	url = https://github.com/pyladies/pyladies-madrid-website
 	branch = gh-pages
+[submodule "chennai"]
+	path = chennai
+	url = https://github.com/pyladies/pyladies-chennai-website
+	branch = gh-pages
