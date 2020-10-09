@@ -34,3 +34,11 @@
 	path = chennai
 	url = https://github.com/pyladies/pyladies-chennai-website
 	branch = gh-pages
+[submodule "cochabamba"]
+	path = cochabamba
+	url = https://github.com/pyladies/pyladies-cochabamba-website
+	branch = gh-pages
+[submodule "hermosillo"]
+	path = hermosillo
+	url = https://github.com/pyladies/pyladies-hermosillo-website
+	
