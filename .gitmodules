@@ -41,4 +41,5 @@
 [submodule "hermosillo"]
 	path = hermosillo
 	url = https://github.com/pyladies/pyladies-hermosillo-website
+	branch = gh-pages
 	
