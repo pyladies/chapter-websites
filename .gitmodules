@@ -42,3 +42,7 @@
 	path = athens
 	url = https://github.com/pyladies/pyladies-athens-website
 	branch = gh-pages
+[submodule "amsterdam"]
+	path = amsterdam
+	url = https://github.com/pyladies/pyladies-amsterdam-website
+	branch = gh-pages
